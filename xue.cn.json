@@ -1,0 +1,26 @@
+{
+ "chapters": [
+  {
+   "is_free": true,
+   "path": "README.ipynb",
+   "title": "0 Windows 终端使用与常用命令"
+  }
+ ],
+ "cover": "https://github.com/smallwhite0001/Windows-commands/blob/master/cover_Windows-commands.jpg?raw=true",
+ "description": "本册子介绍 Windows 终端使用与常用命令。",
+ "license": "本册子由 Small white 在 XUE.cn 首发。",
+ "name": "Windows 终端使用介绍",
+ "programming_language": "无",
+ "category": "用户上传",
+ "authors": [
+  {
+   "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
+   "bio": "自学者，计算机小白。",
+   "name": "Small white",
+   "role": "origin"
+  }
+ ],
+ "publish_at": "2022-01-11T00:00:00",
+ "toc_level": 2,
+ "version": "0.5"
+}
