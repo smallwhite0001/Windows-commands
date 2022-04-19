@@ -7,11 +7,11 @@
   }
  ],
  "cover": "https://github.com/smallwhite0001/Windows-commands/blob/main/cover_Windows-commands.jpg?raw=true",
- "description": "本册子介绍 Windows 终端使用与常用命令。",
+ "description": "本册子介绍 Windows 终端使用与常用命令。如何打开终端？怎样使用终端？常用命令有哪些？",
  "license": "本册子由 Small white 在 XUE.cn 首发。",
  "name": "Windows 终端使用介绍",
  "programming_language": "无",
- "category": "用户上传",
+ "category": "用户上传，电脑办公",
  "authors": [
   {
    "avatar": "https://xue-images.pek3b.qingstor.com/default_avatar.png",
@@ -20,7 +20,7 @@
    "role": "origin"
   }
  ],
- "publish_at": "2022-01-11T00:00:00",
+ "publish_at": "2022-04-19T00:00:00",
  "toc_level": 2,
  "version": "0.5"
 }
